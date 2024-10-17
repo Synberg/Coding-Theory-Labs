@@ -11,3 +11,5 @@
 [Лабораторная работа №2](https://github.com/Synberg/Coding-Theory-Labs/tree/lab2)
 
 [Лабораторная работа №3](https://github.com/Synberg/Coding-Theory-Labs/tree/lab3)
+
+[Лабораторная работа №4](https://github.com/Synberg/Coding-Theory-Labs/tree/lab4)
